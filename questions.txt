@@ -1,0 +1,18 @@
+1.Explain the terminal in your own words.
+- The terminal or command line is a program that you use to type in text commands. 
+In the terminal you can type in commands, alter files and open documents.If you dont 
+have a file or folder that is empty or you need to make a new file and folder, you can.
+The terminal can create files and new folders with commands that the user types in.
+You can find the terminal in your launcpad or at the bottom of your screen.
+
+
+2.What is the major difference between git and github?
+Github is a website where you can host your repositories online. Git is version control system
+that is free and an open source.It manages the changes to documents, web sites, projects
+and other collections of data.
+
+
+3.Why do we use Github?
+We use github because we can host our repositories online and keep track of any changes
+that were made in any projects or documents and if we need to go back to any old version
+of a project, we can.
